@@ -1,5 +1,5 @@
 # ZOO online mega super wogole
-**ZOO online** to prosta strona internetowa prezentująca wirtualne zoo.
+**ZOO online** to prosta strona internetowa prezentująca wirtualne zoo, dostępna na [Github Pages](https://bula14.github.io/NWWO_INLS3_SI_KB/)
 
 ## Spis treści
   - [Opis projektu](#opis-projektu)
