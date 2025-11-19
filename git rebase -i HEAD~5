@@ -1,0 +1,18 @@
+[33m8129e8b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/css[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mcss[m[33m)[m Zmiana stylow css
+[33m130ac43[m dodano sekcje nornik
+[33m659795a[m Update index.html
+[33m5061f76[m Create CONTRIBUTING.md
+[33m3c338db[m Update README.md
+[33m778de82[m s
+[33mbb44237[m Zmiana zdjecia
+[33mfdc5864[m Fix formatting of project title in README
+[33mf39048b[m Add initial README for ZOO online project
+[33mef485d8[m Merge pull request #1 from Bula14/nowe-zwierze
+[33m837af07[m[33m ([m[1;31morigin/nowe-zwierze[m[33m)[m Dodano nową sekcję z nowym zwierzęciem i zdjęciem
+[33m7fb637a[m dodaj plik .gitignore
+[33m40f4e3d[m Merge branch 'zebra'
+[33mbf9de92[m <!DOCTYPE html> <html lang="pl"> <head>     <meta charset="UTF-8">     <meta name="viewport" content="width=device-width, initial-scale=1.0">     <title>ZOO Online</title>
+[33m1272e37[m dodaj autora strony
+[33m7d685e9[m dodaj sekcje zebry i zdjec
+[33m79bca7f[m dodaj strukture strony
+[33m3b026fd[m[33m ([m[1;33mtag: [m[1;33mINDEX[m[33m)[m dodaj plik index.html
